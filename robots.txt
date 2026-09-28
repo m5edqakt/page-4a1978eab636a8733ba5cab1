@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.gmehdbg.cn/sitemap.xml
